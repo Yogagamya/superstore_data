@@ -11,4 +11,4 @@ datagroup: superstore_data_default_datagroup {
 persist_with: superstore_data_default_datagroup
 
 explore: data {}
-
+explore: customer_cohort_analysis {}
